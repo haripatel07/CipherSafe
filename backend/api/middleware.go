@@ -1,7 +1,7 @@
 package api
 
 import (
-	"ciphersafe/config" // <-- Replace
+	"ciphersafe/config"
 	"errors"
 	"net/http"
 	"strings"
