@@ -4,12 +4,12 @@ A self-hosted secrets manager built with Go and Next.js. Securely store, encrypt
 
 ## Features
 
-- 🔐 **End-to-End Encryption**: All secrets are encrypted using AES-256-GCM
-- 🏗️ **Project Organization**: Group secrets by projects for better management
-- 🔒 **Self-Hosted**: Keep full control over your data and infrastructure
-- 🎨 **Modern UI**: Clean, responsive interface built with Next.js and Tailwind CSS
-- 🛡️ **JWT Authentication**: Secure authentication with JSON Web Tokens
-- 🗄️ **PostgreSQL Database**: Robust data storage with GORM ORM
+- **End-to-End Encryption**: All secrets are encrypted using AES-256-GCM
+- **Project Organization**: Group secrets by projects for better management
+- **Self-Hosted**: Keep full control over your data and infrastructure
+- **Modern UI**: Clean, responsive interface built with Next.js and Tailwind CSS
+- **JWT Authentication**: Secure authentication with JSON Web Tokens
+- **PostgreSQL Database**: Robust data storage with GORM ORM
 
 ## Tech Stack
 
