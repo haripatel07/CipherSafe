@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react';
 import { useAuthStore } from '@/stores/authStore';
-import { useRouter } as 'next/navigation'; 
+import { useRouter } from 'next/navigation';
 import { Loader2, Lock } from 'lucide-react';
 import toast from 'react-hot-toast';
 
